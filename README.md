@@ -3,4 +3,4 @@ I am a software developer and master's student with a background in formal logic
 - write [KDE extensions](https://www.pling.com/u/nclarius)
 - develop scripts for automation of routine processes, especially in [academic education](https://github.com/nclarius/pyGrade)
 - work on a [computational implementation of the tableau calculus for modal logics](https://github.com/nclarius/pyPL)
-- and enjoy teaching logic and programming.
+- and enjoy [teaching logic and programming](https://nclarius.github.io/#sec-teaching).
