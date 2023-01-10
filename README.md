@@ -6,3 +6,5 @@ I am a software developer and master's student with a background in formal logic
 - and enjoy [teaching logic and programming](https://nclarius.github.io/#sec-teaching).
 
 Languages: Python (native language), C++, bash, JavaScript (working proficiency), Java, Prolog (school knowledge)
+
+More about my can be found on my [personal website](https://nclarius.github.io).
