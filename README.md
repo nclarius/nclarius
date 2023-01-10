@@ -7,4 +7,4 @@ I am a software developer and master's student with a background in formal logic
 
 Languages: Python (native language), C++, bash, JavaScript (working proficiency), Java (school knowledge), Prolog (good in reading, intermediate in writing)
 
-More about my can be found on my [personal website](https://nclarius.github.io).
+More about me can be found on my [personal website](https://nclarius.github.io).
