@@ -4,6 +4,6 @@ I am a software developer and master's student with a background in formal logic
 - work on a [computational implementation of the tableau calculus for modal logics](https://github.com/nclarius/pyPL)
 - and enjoy [teaching logic and programming](https://nclarius.github.io/#sec-teaching).
 
-Languages: Python (fluent), C++, bash, JavaScript (working proficiency), Java (native language), Prolog (good in reading, intermediate in writing)
+Languages: Python (fluent), C++, QML, JavaScript, bash (working proficiency), Java (native language), Prolog (good in reading, intermediate in writing)
 
 More about me can be found on my [personal website](https://nclarius.github.io).
